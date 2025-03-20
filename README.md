@@ -9,7 +9,7 @@
 ## Running R Code
 There are at least 2 ways:
 - **R Script Files (.r)**: `Rscript file.r`
-- **Jupter Notebooks (.ipynb)**: run code cells individually.
+- **Jupyter Notebooks (.ipynb)**: run code cells individually
 
 
 ## Data Sources & Credits
