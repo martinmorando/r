@@ -1,5 +1,5 @@
 #
-#   Load data
+#   Load and write data
 #
 
 # Install package (tries to install everytime is executed)
@@ -12,6 +12,10 @@ library(readr)
 
 # Load data frame (think of a spreadsheat were R functions can be applied)
 spx <- read_csv("data/1-spx.csv")
+
+
+# Write data frame into new file in current directory
+write_csv(spx, "new-file.csv")
 
 
 # Preview first rows 
