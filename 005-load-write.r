@@ -14,14 +14,18 @@ library(readr)
 spx <- read_csv("data/1-spx.csv")
 
 
-# Write data frame into new file in current directory
-write_csv(spx, "new-file.csv")
+# Write data frame into new file in current directory (uncomment to see)
+# write_csv(spx, "new-file.csv")
 
 
 # Preview first rows 
-#head(spx)      # Displays 6 rows by default
-head(spx,10)    # Displays 10 rows
+#head(spx)          # Displays 6 rows by default
+head(spx,10)        # Displays 10 rows
+
+
+# Returns vector with column names
+spx_column_names <- colnames(spx)   # "date" "close"
 
 
 # Generate summary statistics
-summary(spx)
+spx_summary <- summary(spx)
