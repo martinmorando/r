@@ -1,7 +1,7 @@
-#,first_name,last_name
-1,Thomas,Edison
-2,Michael,Faraday
-3,Steve,Jobs
-4,Nikola,Tesla
-5,Galileo,Galilei
-6,Leonardo,da Vinci
+#,first_name,last_name,year_born,interstellar_travel_count
+1,Thomas,Edison,1847,2
+2,Michael,Faraday,1791,6
+3,Steve,Jobs,1955,4
+4,Nikola,Tesla,1856,10
+5,Galileo,Galilei,1564,5
+6,Leonardo,da Vinci,1452,8
