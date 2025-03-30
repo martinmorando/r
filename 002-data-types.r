@@ -1,5 +1,5 @@
 #
-#   Variables
+#   Data Types
 #   - It's possible to assign a value to a variable using:
 #       - Arrow sign (<-): most used
 #       - Equal sign (=)
