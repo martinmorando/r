@@ -11,7 +11,7 @@ library(readr)
 
 
 # Load data frame (think of a spreadsheat were R functions can be applied)
-guests_df <- read_csv("data/2-guests.csv")
+guests_df <- read_csv("data/001-guests.csv")
 
 
 # Write DF into a new file in the current directory

@@ -16,6 +16,6 @@ There are at least 2 ways:
 I have no idea if this data is actually true; I'm just using it to learn R.
 
 CSV files in `data` folder:
-- **1-spx.csv**: [S&P500 Daily Prices 1986 - 2018](https://www.kaggle.com/datasets/pdquant/sp500-daily-19862018) (CC0: Public Domain)
-- **3-netflix_titles.csv**: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) (CC0: Public Domain)
-- **4-high_popularity_spotify_data.csv**: [Spotify Music Dataset](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset) (DbCL v1.0)
+- **002-spx.csv**: [S&P500 Daily Prices 1986 - 2018](https://www.kaggle.com/datasets/pdquant/sp500-daily-19862018) (CC0: Public Domain)
+- **003-netflix_titles.csv**: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) (CC0: Public Domain)
+- **004-high_popularity_spotify_data.csv**: [Spotify Music Dataset](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset) (DbCL v1.0)

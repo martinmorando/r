@@ -11,7 +11,7 @@ library(readr)
 library(dplyr)
 
 # Load data into data frame
-guests_df <- read_csv("data/2-guests.csv")
+guests_df <- read_csv("data/001-guests.csv")
 
 
 
